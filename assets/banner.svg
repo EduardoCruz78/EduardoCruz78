@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-label="Eduardo Proença — Full Stack Developer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="1" stop-color="#161b33"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7c5cff"/>
+      <stop offset="1" stop-color="#22d3ee"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#ffffff" stroke-opacity="0.04"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="260" rx="16" fill="url(#bg)"/>
+  <rect width="1200" height="260" rx="16" fill="url(#grid)"/>
+  <circle cx="1060" cy="40" r="160" fill="#7c5cff" fill-opacity="0.10"/>
+  <circle cx="1150" cy="230" r="110" fill="#22d3ee" fill-opacity="0.08"/>
+  <rect x="64" y="58" width="56" height="5" rx="2.5" fill="url(#accent)"/>
+  <text x="64" y="118" fill="#f0f6fc" font-family="Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="46" font-weight="700">Eduardo Proença</text>
+  <text x="64" y="160" fill="url(#accent)" font-family="Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="26" font-weight="600">Full Stack Developer · C# / .NET · TypeScript</text>
+  <text x="64" y="200" fill="#8b949e" font-family="Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="19">APIs · web apps · automations  —  remote, async, open to freelance &amp; full-time roles</text>
+  <g font-family="Consolas, Menlo, monospace" font-size="15" fill="#c9d1d9" fill-opacity="0.55">
+    <text x="820" y="96">public class Developer {</text>
+    <text x="842" y="122">Stack = [".NET", "Node", "React"];</text>
+    <text x="842" y="148">Tests = true;</text>
+    <text x="842" y="174">Remote = true;</text>
+    <text x="820" y="200">}</text>
+  </g>
+</svg>

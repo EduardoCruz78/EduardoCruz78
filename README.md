@@ -21,6 +21,7 @@ I'm a **full stack developer** from Brazil (UTC-3, overlaps with US hours) worki
 
 | Project | What it shows | Stack |
 |---|---|---|
+| [**SchedulingApi**](https://github.com/EduardoCruz78/SchedulingApi) · [live demo](https://scheduling-api-gf47.onrender.com/scalar) | Appointment booking API with real business rules: availability calculation (time zones, DST), double-booking prevention with a PostgreSQL exclusion constraint proven by a concurrency test, JWT roles, 193 tests | C# · ASP.NET Core 10 · EF Core · PostgreSQL · Testcontainers · Docker |
 | [**EduPlatformJS**](https://github.com/EduardoCruz78/EduPlatformJS) · [live demo](https://edu-platform-js-five.vercel.app) | Education platform in a monorepo: Google sign-in, role-based access control, admin panel, audit trail, tests and CI | Next.js · tRPC · Prisma · PostgreSQL · Auth.js · Vitest |
 | [**DesafioBackend**](https://github.com/EduardoCruz78/DesafioBackend) | KPI/indicators domain model built test-first: aggregate rules, 12 unit tests, CI on GitHub Actions | C# · .NET 8 · xUnit · FluentAssertions |
 | [**Curriculo**](https://github.com/EduardoCruz78/Curriculo) · [live](https://curriculo-psi-drab.vercel.app) | Interactive résumé site with animations and form validation demos | Next.js · React 19 · Tailwind CSS · Framer Motion |
@@ -51,6 +52,7 @@ I'm a **full stack developer** from Brazil (UTC-3, overlaps with US hours) worki
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
 <img src="https://img.shields.io/badge/xUnit-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="xUnit">
 <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" alt="Vitest">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
 <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions">
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
 <img src="https://img.shields.io/badge/Rider-000000?style=flat-square&logo=rider&logoColor=white" alt="Rider">

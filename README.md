@@ -12,7 +12,7 @@
 
 I'm a **full stack developer** from Brazil (UTC-3, overlaps with US hours) working with **C# / .NET** on the backend and **TypeScript, React and Next.js** on the web.
 
-- 💼 Backend developer at **Qualyteam**: REST APIs in .NET with EF Core and SQL Server, Clean Architecture, DDD and TDD
+- 💼 Former backend developer at **Qualyteam** (2025): REST APIs in .NET with EF Core and SQL Server, Clean Architecture, DDD and TDD
 - 🎓 2.5-year full stack internship at the **Federal Institute of Santa Catarina (IFC)**, leading an ed-tech project and training new interns
 - 🚀 Freelance: web systems, APIs and websites for clients in Brazil and abroad
 - 💬 Remote, async and written communication. I use AI tools (Claude Code) daily, and I review, test and own every line I ship
